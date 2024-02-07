@@ -1,0 +1,7 @@
+numpy
+CV2
+os
+tensorflow
+Image
+sklearn
+tqdm
