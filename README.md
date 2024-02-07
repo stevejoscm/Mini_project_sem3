@@ -1,1 +1,1 @@
-In this project we will predict the weight of rice grain using CNN # Mini_project_sem3
+In this projectis used to predict the weight of rice using CNN # Mini_project_sem3
